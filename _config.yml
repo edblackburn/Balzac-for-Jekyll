@@ -1,46 +1,41 @@
-title:            Balzac
-tagline:          A beautiful theme.
-description:      Describe your website.
-canonical: http://jekyll.gtat.me
+title:            Ed Blackburn
+tagline:          Software Development
+description:      This blog is a series of articles about my journey as a software developer. Lessons I've learned earnestly through experience and new lessons I learn day by day as I strive to continuously improve as a professional.
+canonical: http://ejb.name
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           Ed Blackburn
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
-  disqus:         balzac
-  location:       "Buffalo, NY"
+  bio:            "Software Dev"
+  email:          ed@ejb.name
+  twitter:        ejblackburn
+  github:         edblackburn
+  instagram:      edblackburn
+  disqus:         Ed_Blackburn
+  location:       "Kent, UK"
   # Plug in your disqus shortname!
-
-tools:
-  standards:      "HTML, SCSS, Jekyll"
-  software:       "git"
 
 # Open Graph customization
 opengraph:
-  locale:           en_US
+  locale:           en_GB
 
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
+  - title: Who is Ed?
     url: /about
+  - title: Presentations
+    url: /presentations
+  - title: Hire Me
+    url: /hireme    
   - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
-    external: true
-  - title: Cole Who?
-    url: http://coletownsend.com
+    url: https://github.com/edblackburn
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/London
 future:      true
-highlighter: pygments
 markdown:    kramdown
 
 kramdown:
@@ -50,15 +45,11 @@ kramdown:
   toc_levels: 1..6
   use_coderay: false
 
-  coderay:
-    coderay_line_numbers:
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
-
 sass:
     style: :compressed
+
+gems:
+  - jekyll-gist    
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
