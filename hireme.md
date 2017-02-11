@@ -13,10 +13,10 @@ Consultancy services are available through [blazey software](http://blazey.softw
 
 I can be contacted through: 
 
-m: [ed@ejb.name](mailto:ed@ejb.name)
+[ed@ejb.name](mailto:ed@ejb.name)
 
 ### Curriculum Vitae
 
 [Linked In](https://uk.linkedin.com/in/edwardjblackburn)
 
-[Download PDF](http://jekyllrb.com)
+[Download PDF](http://)
