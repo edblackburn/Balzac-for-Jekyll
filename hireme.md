@@ -27,8 +27,6 @@ I am a proponent of Continuous Integration and Continuous Delivery because I wan
 
 ### Contact Me
 
-I can be contacted through: 
-
 [ed@ejb.name](mailto:ed@ejb.name)
 
 ### Curriculum Vitae
