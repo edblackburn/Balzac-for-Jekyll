@@ -23,7 +23,7 @@ My preferred methods are Domain Driven Development, which leads us down a path o
 
 ### The Journey of Delivery
 
-I am a proponent of Continuous Integration and Continuous Delivery because I want to release value early.  This allows us to showcase apps continuously so we can transparently see what does and doesn't work. If we consider each requirement as a short experiment to challenge assumptions (such as _is this new feature going to increase revenue or reduce manual intervention_), then we determine after each iteration whether to persevere, or correct course as appropriate, with minimum waste.
+I am a proponent of Continuous Integration and Continuous Delivery because I want to release value early.  This allows us to showcase apps continuously so we can transparently see what does and doesn't work. If we consider each requirement as a short experiment to challenge assumptions (such as is this new feature going to increase revenue or reduce manual intervention?), then we determine after each iteration whether to persevere, or correct course as appropriate with minimum waste.
 
 ### Contact Me
 
